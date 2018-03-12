@@ -23,7 +23,7 @@ then
 clear
 echo "\033[31;1m"
 toilet "T-Sel"
-php 2.php
+php 1.php
 fi
 
 if
